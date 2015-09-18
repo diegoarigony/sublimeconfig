@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\$(window).load(function(){
+    ${1}
+});
+]]></content>
+	<tabTrigger>wil</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

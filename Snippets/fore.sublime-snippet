@@ -1,0 +1,6 @@
+<snippet>
+   <content><![CDATA[
+foreach( ${1:\$list} as ${2:\$item} ) :
+]]></content>
+   <tabTrigger>fore</tabTrigger>
+</snippet>

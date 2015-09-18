@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\$(function(){
+    $1
+});
+]]></content>
+	<tabTrigger>dor</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

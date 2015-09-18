@@ -1,0 +1,5 @@
+<snippet>
+   <content>console.log( $1 );</content>
+   <tabTrigger>cons</tabTrigger>
+   <scope>source.js</scope>
+</snippet>

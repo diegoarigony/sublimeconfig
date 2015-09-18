@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$('html, body').animate({
+    scrollTop: \$("${1}").offset().top
+}, 1200);
+]]></content>
+    <tabTrigger>scroll</tabTrigger>
+</snippet>

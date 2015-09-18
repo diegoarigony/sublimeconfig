@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+\$sql = Doctrine_Query::create()
+    ->select('${1}')
+    ->from(${2})
+    ->where(${3});
+\$data = \$sql->fetchArray();
+if(!empty(\$data)){
+    return \$data;
+}
+return false;
+]]></content>
+    <tabTrigger>sql1</tabTrigger>
+</snippet>

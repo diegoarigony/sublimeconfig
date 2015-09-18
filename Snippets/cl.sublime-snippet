@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+\$('${1}').click(function(e){
+    e.preventDefault();
+    ${2}
+});
+]]></content>
+    <tabTrigger>.cl</tabTrigger>
+</snippet>

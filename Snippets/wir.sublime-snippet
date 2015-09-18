@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+\$(window).resize(function(){
+    ${1}
+});
+]]></content>
+  <tabTrigger>wir</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AlignTab",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS3",
+		"CSScomb",
+		"DistractionFreeWindow",
+		"EditorConfig",
+		"Emmet",
+		"Handlebars",
+		"Hayaku - tools for writing CSS faster",
+		"JSCS-Formatter",
+		"LiveStyle",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Monokai Extended",
+		"Package Control",
+		"PlainTasks",
+		"Predawn",
+		"Review Myself",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"Theme - Soda",
+		"TodoReview"
+	]
+}
