@@ -1,8 +1,7 @@
 {
 	"atomic_save": true,
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
-	"default_encoding": "UTF-8",
-	"fallback_encoding": "UTF-8",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"debug": true,
 	"font_size": 9,
 	"hayaku_CSS_prefixes_disable": true,
 	"hayaku_CSS_syntax_autoguess":
@@ -25,11 +24,12 @@
 	],
 	"line_numbers": true,
 	"overlay_scroll_bars": "enabled",
+	"predawn_tabs_small": true,
 	"preview_on_click": false,
 	"remember_open_files": false,
 	"tab_size": 4,
-	"tabs_small": true,
-	"theme": "predawn.sublime-theme",
+	"theme": "predawn-DEV.sublime-theme",
+	"timeout": 120,
 	"translate_tabs_to_spaces": true,
 	"use_tab_stops": true
 }

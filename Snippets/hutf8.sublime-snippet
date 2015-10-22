@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+header ('Content-type: text/html; charset=UTF-8');
+]]></content>
+    <tabTrigger>hutf8</tabTrigger>
+</snippet>

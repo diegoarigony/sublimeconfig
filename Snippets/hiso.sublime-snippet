@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+header ('Content-type: text/html; charset=ISO-8859-1');
+]]></content>
+    <tabTrigger>hiso</tabTrigger>
+</snippet>
