@@ -25,6 +25,8 @@
 		"LiveStyle",
 		"Markdown Extended",
 		"Markdown Preview",
+		"Material Theme",
+		"Materialize",
 		"Monokai Extended",
 		"Open Search in a New Tab",
 		"Package Control",
@@ -37,6 +39,7 @@
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
+		"Theme - Fox",
 		"Theme - Soda",
 		"TodoReview"
 	]
