@@ -27,7 +27,7 @@
 		"*.sassc",
 		"*.scssc"
 	],
-	"font_size": 10,
+	"font_size": 9,
 	"hayaku_CSS_prefixes_disable": true,
 	"hayaku_CSS_syntax_autoguess":
 	[
@@ -49,8 +49,8 @@
 	],
 	"insert_final_newline ": false,
 	"line_numbers": true,
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"overlay_scroll_bars": "enabled",
 	"predawn_tabs_small": true,
 	"preview_on_click": false,

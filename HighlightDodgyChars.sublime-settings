@@ -1,0 +1,10 @@
+{
+    "whitelist_chars": [
+        // currencies
+        "€£",
+        // European characters ( http://fasforward.com/list-of-european-special-characters/ )
+        "¡¿äàáâãåǎąăæçćĉčđďðèéêëěęĝģğĥìíîïıĵķĺļłľñńňöòóôõőøœŕřẞßśŝşšșťţþțüùúûűũųůŵýÿŷźžż",
+
+        "✔☐"
+    ]
+}
