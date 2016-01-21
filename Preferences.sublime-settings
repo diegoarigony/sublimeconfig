@@ -1,6 +1,6 @@
 {
 	"atomic_save": true,
-	"color_scheme": "Packages/User/SublimeLinter/Material Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Flatland_Monokai (SL).tmTheme",
 	"debug": true,
 	"ensure_newline_at_eof_on_save": false,
 	"file_exclude_patterns":
@@ -27,7 +27,7 @@
 		"*.sassc",
 		"*.scssc"
 	],
-	"font_size": 9,
+	"font_size": 9.5,
 	"hayaku_CSS_prefixes_disable": true,
 	"hayaku_CSS_syntax_autoguess":
 	[
@@ -56,7 +56,7 @@
 	"preview_on_click": false,
 	"remember_open_files": false,
 	"tab_size": 4,
-	"theme": "predawn-DEV.sublime-theme",
+	"theme": "Spacegray Eighties.sublime-theme",
 	"timeout": 120,
 	"translate_tabs_to_spaces": true,
 	"use_tab_stops": true

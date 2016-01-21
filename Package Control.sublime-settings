@@ -12,6 +12,7 @@
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
+		"Colorsublime",
 		"CSS3",
 		"CSScomb",
 		"CSSfmt",
@@ -51,8 +52,6 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
 		"SublimeLinter-phpmd",
-		"Theme - Fox",
-		"Theme - Soda",
 		"Theme - Spacegray",
 		"TodoReview"
 	]
