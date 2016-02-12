@@ -32,7 +32,7 @@
 	"hayaku_CSS_syntax_autoguess":
 	[
 		"    selector {              ",
-		"        property:value;    ",
+		"        property: value;    ",
 		"        }                   "
 	],
 	"hayaku_user_aliases":
