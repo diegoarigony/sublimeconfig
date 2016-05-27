@@ -27,7 +27,8 @@
 		"*.sassc",
 		"*.scssc"
 	],
-	"font_size": 9.5,
+	"findreplace_small": true,
+	"font_size": 10,
 	"hayaku_CSS_prefixes_disable": true,
 	"hayaku_CSS_syntax_autoguess":
 	[
@@ -49,13 +50,14 @@
 	],
 	"insert_final_newline ": false,
 	"line_numbers": true,
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"overlay_scroll_bars": "enabled",
 	"predawn_tabs_small": true,
 	"preview_on_click": false,
 	"remember_open_files": false,
 	"tab_size": 4,
+	"tabs_small": true,
 	"theme": "Spacegray Eighties.sublime-theme",
 	"timeout": 120,
 	"translate_tabs_to_spaces": true,
