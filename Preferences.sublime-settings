@@ -25,7 +25,10 @@
 		"node_modules/*",
 		"*.orig",
 		"*.sassc",
-		"*.scssc"
+		"*.scssc",
+		"nbproject/*",
+		".idea/*",
+		".sass-cache/*"
 	],
 	"findreplace_small": true,
 	"font_size": 10,
